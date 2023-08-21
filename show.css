@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.box {
+	padding-left: 50px;
+	width: 400px;
+	text-align:center;
+}
+h3 {
+	line-height: 30px;
+	color: #5af542;
+	text-align: justify;
+}
+h4, h1 {
+	color: red;
+	font-weight: bold;
+}
